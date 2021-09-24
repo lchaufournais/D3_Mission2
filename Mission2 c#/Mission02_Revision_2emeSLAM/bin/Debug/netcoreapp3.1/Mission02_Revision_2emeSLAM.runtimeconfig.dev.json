@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lozia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lozia\\.nuget\\packages"
+    ]
+  }
+}
